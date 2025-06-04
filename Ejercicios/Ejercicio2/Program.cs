@@ -64,7 +64,7 @@
         static int MostrarPantallaSolicitarOpcionesMenu()
         {
             Console.Clear();
-            Console.WriteLine("\t\tEjercicio1\n\n");
+            Console.WriteLine("\t\tEjercicio2\n\n");
             Console.WriteLine("1 - Iniciar Monto a repartir.");
             Console.WriteLine("2 - Solicitar Edad Por niña.");
             Console.WriteLine("3 - Mostrar monto y porcentajes que corresponde a cada niña.");
